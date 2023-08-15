@@ -1,0 +1,14 @@
+:root {
+  --color-orange: orange;
+  --color-dark: black;
+
+  --body-bg: white;
+  --color-font: white;
+  --text-color: var(--color-dark);
+  --border-color: var(--color-dark);
+
+  /* background */
+  --dark-bg: var(--color-dark);
+  --dark-text-color: white;
+  --dark-border-color: white;
+}
